@@ -8,8 +8,7 @@ This library allows users to easily measure temperature using an NTC thermistor 
 
 ## Circuit Diagram
 
-![image](https://github.com/user-attachments/assets/725b62f3-e7f8-4755-89b2-59d0849bc9de)
-
+![image](https://github.com/user-attachments/assets/7c97bbc7-b0e7-471d-97c9-c13e5f392094)
 
 ### Explanation of the Circuit  
 1. **Thermistor (NTC)**: A resistor whose resistance decreases as temperature increases.  
